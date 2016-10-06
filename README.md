@@ -1,7 +1,7 @@
 V Core integration/staging tree
 ===============================
 
-[![Build Status](https://travis-ci.org/vcore/vcore.svg?branch=master)](https://travis-ci.org/vcore/vcore)
+[![Build Status](https://api.travis-ci.org/chris-vl/vcoincore.svg?branch=master)](https://travis-ci.org/chrisvl/vcore)
 
 https://vcore.org
 
